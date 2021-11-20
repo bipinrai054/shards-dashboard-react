@@ -1,0 +1,1 @@
+https://rating-admin.herokuapp.com/api/admin/
